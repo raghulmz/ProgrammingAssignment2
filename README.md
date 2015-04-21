@@ -18,9 +18,8 @@
 ###Example
 
 ```
-raghulmz@thecomp <R> x = matrix(c(1:9),nrow = 3, ncol = 3)
 raghulmz@thecomp <R>  x <- matrix(runif(9,1,100),3,3)
-raghulmz@thecomp <R>  m = makeCacheMatrix(x)
+raghulmz@thecomp <R>  m <- makeCacheMatrix(x)
 raghulmz@thecomp <R>  m$get()
        [,1]  [,2]   [,3]
 [1,] 25.628 62.65 67.665
