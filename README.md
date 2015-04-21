@@ -13,7 +13,7 @@
  * `getinv` retives the cached value of `inv`.
 
 ##cacheSolve
-**cacheSolve** checks if there is a value for `inv` and returns it. If there is no value cached then it computes the inverse for the given matrix
+**cacheSolve** checks if there is a cached value for `inv` and returns it. If there is no value cached then it computes the inverse for the given matrix
 
 ###Example
 
