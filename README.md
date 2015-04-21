@@ -3,6 +3,7 @@
 
 * `cachematrix.R` - functions for calculating, caching and retrieving inverse
 * `example.R` - Example from assignment page
+
 ##makeCacheMatrix
  **makeCacheMatrix** takes a matrix as input and returns a list of 4 functions.<br>
 
